@@ -1,2 +1,0 @@
-# c
-# Character-Frequency-Calculator
